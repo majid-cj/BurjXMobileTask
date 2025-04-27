@@ -141,3 +141,5 @@ Organizes the main screens of the app, each within its own subfolder:
 #### store:
 Manages the application's state using Zustand, a small, fast, and scalable state management solution. It includes stores for cryptocurrency data, price data, theme, and utility functions.
 
+### [React Native BurjX Mobile App without expo dependencies](https://github.com/majid-cj/BurjXMobile)
+
