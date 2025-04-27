@@ -1,5 +1,5 @@
 import React, { FC, useEffect } from 'react'
-import { View, TouchableOpacity, Linking, Platform, StyleSheet } from 'react-native'
+import { View, TouchableOpacity, Linking, Platform } from 'react-native'
 
 import FastImage from 'react-native-fast-image'
 
